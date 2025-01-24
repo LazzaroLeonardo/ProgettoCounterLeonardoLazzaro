@@ -14,9 +14,11 @@ Questo semplice app è un conter numerico e permette di incrementare e decrement
 
 ***
 ## Come è stato fatto
-Questo semplice counter è stato sviluppato e creato interamente con Javascipt. Questo significa che elementi come il valore del counter, i pulsanti, e lo scheletro (div, p) sono stati creati interamente dinamicamente con la manipolazione del DOM. Il file Html serve solo per ospitare i meta tag, i link al file css e js e tutto il codice per la head ad esempio la favicon e il titolo. Nel file Css è contenuto lo stile della pagina oltre a quello del counter.
+Questo semplice counter è stato sviluppato e creato interamente con Javascipt. Questo significa che elementi come il valore del counter, i pulsanti, e lo scheletro (div, p) sono stati creati interamente dinamicamente con la manipolazione del DOM. Il file Html serve solo per ospitare i meta tag, i link al file css e js e tutto il codice per la head ad esempio la favicon e il titolo Nel body è contenuto il percorso al file js. Nel file Css è contenuto lo stile della pagina oltre a quello del counter.
 
 ## Come usare il counter
 Per poter testare e usare il counter non è necessaria nessuna app particolare o installare altri applicativi. Basta cliccare al link in fondo a questo file Readme che porta alla pagina dove sarà possibile testare il counter. Appena entrati in pagina basterà solo agire sui pulsanti + e -. Il counter aggiornerà in automatico il suo valore (di default è 0).
 
 ## Dove testare il counter
+Per provare il counter:
+[Counter Javascript](https://lazzaroleonardo.github.io/ProgettoCounterLeonardoLazzaro/"Pagina dove provare il Counter Javascript")
