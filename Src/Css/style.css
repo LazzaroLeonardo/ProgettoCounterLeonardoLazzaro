@@ -1,0 +1,60 @@
+/* Stile generale */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column; /* Dispone gli elementi in colonna */
+    align-items: center; /* Centra gli elementi orizzontalmente */
+    justify-content: center; /* Centra gli elementi verticalmente */
+    height: 100vh;
+    margin: 0;
+    background-color: lightgray;
+  }
+  
+  /* Stile per il titolo */
+  h1 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 20px; /* Spazio sotto il titolo */
+  }
+  
+  /* Contenitore principale */
+  div {
+    text-align: center;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+   
+  
+  
+  /* Valore del counter */
+  p {
+      font-size: 2rem;
+      margin: 20px 0;
+      color: #333;
+  }
+    
+  /* Pulsanti */
+  button {
+      font-size: 1rem;
+      padding: 10px 20px;
+      margin: 0 10px;
+      background-color: #007bff;
+      color: #ffffff;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+  }
+    
+  button:hover {
+      background-color: #0056b3;
+  }
+    
+  button:active {
+      transform: scale(0.95);
+  }
+    
+  
