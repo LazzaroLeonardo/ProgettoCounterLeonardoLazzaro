@@ -1,23 +1,26 @@
 /* Stile generale */
+/* General style */
 body {
     font-family: Arial, sans-serif;
     display: flex;
-    flex-direction: column; /* Dispone gli elementi in colonna */
-    align-items: center; /* Centra gli elementi orizzontalmente */
-    justify-content: center; /* Centra gli elementi verticalmente */
+    flex-direction: column; /* Dispone gli elementi in colonna */  /* Arranges elements in columns */
+    align-items: center; /* Centra gli elementi orizzontalmente */  /* Center elements horizontally */
+    justify-content: center; /* Centra gli elementi verticalmente */  /* Center elements vertically */
     height: 100vh;
     margin: 0;
     background-color: lightgray;
   }
   
   /* Stile per il titolo */
+  /* Style for the title */
   h1 {
     font-size: 2.5rem;
     color: #333;
-    margin-bottom: 20px; /* Spazio sotto il titolo */
+    margin-bottom: 20px; /* Spazio sotto il titolo */  /* Space below title */
   }
   
   /* Contenitore principale */
+  /* Main container */
   div {
     text-align: center;
     background: #ffffff;
@@ -30,6 +33,7 @@ body {
   
   
   /* Valore del counter */
+  /* Counter value */
   p {
       font-size: 2rem;
       margin: 20px 0;
@@ -37,6 +41,7 @@ body {
   }
     
   /* Pulsanti */
+  /* Buttons */
   button {
       font-size: 1rem;
       padding: 10px 20px;
