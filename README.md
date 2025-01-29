@@ -10,7 +10,7 @@ Questo semplice counter di numeri è stato creato con i seguenti linguaggi di pr
 
 Descrizione del counter:
 
-Si tratta di una semplice app che funziona da conter numerico e permette di incrementarne e decrementarne il valore. Appena si entra in pagina l'untente avrà a disposizione due pulsanti rispettivamnete + e - e il valore sarà impostato a 0. L'utente agendo sui rispettivi pulsanti potrà cambaire il valore. 
+Si tratta di una semplice app che funziona da conter numerico e permette di incrementarne e decrementarne il valore. Appena si entra in pagina l'untente avrà a disposizione due pulsanti rispettivamnete + e -. Il valore sarà impostato a 0. L'utente agendo sui rispettivi pulsanti potrà cambiare il valore. 
 
 ***
 
@@ -25,7 +25,7 @@ Per poter testare e usare il counter non è necessaria nessuna app particolare o
 ***
 
 ## Requisiti
-Non è necessario nessun requisito per poter far funzioanre il counter.
+Non è necessario nessun requisito per poter far funzionare il counter.
 
 ***
 
